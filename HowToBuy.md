@@ -18,7 +18,9 @@ BuyLINEExtenderを開き、GET Pro Editionを押します。
 購入方法は  
 
 - PayPal
-- Amazonギフトカードになります。
+- Amazonギフトカード
+
+になります。
 
 ### PayPalで支払う場合
 
