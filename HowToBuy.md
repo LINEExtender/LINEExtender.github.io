@@ -24,7 +24,7 @@ BuyLINEExtenderを開き、GET Pro Editionを押します。
 
 ### PayPalで支払う場合
 
-**[ここ](http://j.mp/buylineextender)**から支払いをします。  
+**[ここ](http://lineextender.github.io/buy.html)**から支払いをします。  
 
 ![http://i.imgur.com/Y1xnk1K.png](http://i.imgur.com/Y1xnk1K.png)  
 
@@ -44,6 +44,5 @@ Mail chikuwajb@gmail.com
 **まだまだ未熟ですのでお手柔らかにお願いします。**
 
 # それでは良いJailbreak Lifeを！
-
 
 
