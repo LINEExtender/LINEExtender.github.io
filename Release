@@ -1,0 +1,8 @@
+Origin: LINEExtender
+Label: LINEExtender
+Suite: stable
+Version: 0.9
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: LINEExtender repo
