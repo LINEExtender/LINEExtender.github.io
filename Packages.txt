@@ -1,34 +1,3 @@
-Package: com.chikuwa.lineextender
-Name: LINEExtender
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Chikuwa
-Author: Chikuwa
-Section: Tweaks
-Version: 0.0.1-rc
-Installed-Size: 239
-MD5sum: b57d35d70b1a7e18d5029870476e95fe
-Size: 32934
-Filename: com.chikuwa.lineextender_0.0.1-rc_iphoneos-arm.deb
-com.chikuwa.lineextender
-
-
-Package: com.chikuwa.lineextender
-Name: LINEExtender
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Chikuwa
-Author: Chikuwa
-Section: Tweaks
-Version: 0.0.1-rc
-Installed-Size: 239
-MD5sum: b57d35d70b1a7e18d5029870476e95fe
-Size: 32934
-Filename: com.chikuwa.lineextender_0.0.1-rc_iphoneos-arm.deb
-
-
 Package: com.chikuwa.buylineextender
 Name: BuyLINEExtender
 Depends: mobilesubstrate
@@ -394,6 +363,23 @@ Installed-Size: 1236
 MD5sum: adb6b695b46aa2dee71d2453acd49f10
 Size: 219090
 Filename: com.chikuwa.lineextender_1.1.6_iphoneos-arm.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineextender
+
+Package: com.chikuwa.lineextender
+Name: LINEExtender(有料版)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Extend your LINE!!
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Tweaks
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineextender
+Conflicts: com.chikuwa.nolineid,com.chikuwa.nolinesearchbar,com.chikuwa.linepresentenabler,com.chikuwa.fakecoin,com.chikuwa.nolinethemecheck
+Version: 1.1.7
+Installed-Size: 1236
+MD5sum: d97e4f583c41c3516eaf416a1d671c2d
+Size: 219192
+Filename: com.chikuwa.lineextender_1.1.7_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineextender
 
 
