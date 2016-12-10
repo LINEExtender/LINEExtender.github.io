@@ -90,9 +90,9 @@ Section: Tweaks
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineextender
 Conflicts: com.chikuwa.nolineid,com.chikuwa.nolinesearchbar,com.chikuwa.linepresentenabler,com.chikuwa.fakecoin,com.chikuwa.nolinethemecheck
 Version: 1.2.3
-Installed-Size: 3532
-MD5sum: 02bc8fbac97929f475c08348451ab1a0
-Size: 744630
+Installed-Size: 1380
+MD5sum: 0e0868964fd4bc9774d33abc7d98d9de
+Size: 223996
 Filename: com.chikuwa.lineextender_1.2.3_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineextender
 
