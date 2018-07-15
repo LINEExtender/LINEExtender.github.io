@@ -27,9 +27,6 @@ echo "圧縮中。。。"
 cp Packages Packages.txt
 bzip2 Packages
 echo "完了！"
-n=`cat zenkai`
-echo -n "${i}" > zenkai
-echo "${i}個のパッケージを処理しました。(前回は${n}個)"
 
 if [ $MODE == "auto" ]; then
 git config user.email "chikuwajb@gmail.com"
