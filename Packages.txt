@@ -13,6 +13,22 @@ Size: 5714
 Filename: com.chikuwa.buylineextender_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.buylineextender
 
+Package: com.chikuwa.buylineextender
+Name: BuyLINEExtender
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Extend your LINE!!
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Tweaks
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.buylineextender
+Version: 1.0.1
+Installed-Size: 144
+MD5sum: a729f71dd4142f1aac3a9c6d0eed84e2
+Size: 4884
+Filename: com.chikuwa.buylineextender_1.0.1_iphoneos-arm.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.buylineextender
+
 Package: com.chikuwa.lineextender-light
 Name: LINEExtender-Light
 Depends: mobilesubstrate
