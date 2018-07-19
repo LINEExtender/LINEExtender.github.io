@@ -18,7 +18,7 @@ do
   md5sum "$deb" | echo "MD5sum: $(awk '{ print $1 }')" >> Packages
   wc -c "$deb" | echo "Size: $(awk '{ print $1 }')" >> Packages
   echo "Filename: $deb" >> Packages
-  dpkg-deb -f "$deb" Package | echo "Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=$(xargs -0)" >> Packages
+  dpkg-deb -f "$deb" Package | echo "Depiction: https://chikuwajb.github.io/repository_description/#$(xargs -0)" >> Packages
   echo "" >> Packages
 done
 
