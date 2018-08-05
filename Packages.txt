@@ -243,8 +243,8 @@ Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineex
 Conflicts: com.chikuwa.nolineid,com.chikuwa.nolinesearchbar,com.chikuwa.linepresentenabler,com.chikuwa.fakecoin,com.chikuwa.nolinethemecheck
 Version: 1.3.1
 Installed-Size: 1036
-MD5sum: 4218f25842911d9bacb0006830195e84
-Size: 200660
+MD5sum: 6149d4251d248d4f1ab3c115da63f419
+Size: 200282
 Filename: com.chikuwa.lineextender_1.3.1_iphoneos-arm.deb
 Depiction: https://chikuwajb.github.io/repository_description/#com.chikuwa.lineextender
 
