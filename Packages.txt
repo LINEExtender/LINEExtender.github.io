@@ -248,4 +248,21 @@ Size: 200454
 Filename: com.chikuwa.lineextender_1.3.1_iphoneos-arm.deb
 Depiction: https://chikuwajb.github.io/repository_description/#com.chikuwa.lineextender
 
+Package: com.chikuwa.lineextender
+Name: LINEExtender(有料版)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Extend your LINE!!
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Tweaks
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineextender
+Conflicts: com.chikuwa.nolineid,com.chikuwa.nolinesearchbar,com.chikuwa.linepresentenabler,com.chikuwa.fakecoin,com.chikuwa.nolinethemecheck
+Version: 1.3.2
+Installed-Size: 808
+MD5sum: 16be772812db713b3038acc1631a7098
+Size: 172362
+Filename: com.chikuwa.lineextender_1.3.2_iphoneos-arm.deb
+Depiction: https://chikuwajb.github.io/repository_description/#com.chikuwa.lineextender
+
 
