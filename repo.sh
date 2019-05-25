@@ -16,6 +16,8 @@ do
 	echo "$deb を処理中！";
   dpkg-deb -f "$deb" >> Packages
   md5sum "$deb" | echo "MD5sum: $(awk '{ print $1 }')" >> Packages
+  openssl sha1 "$deb" | echo "SHA1: $(awk '{ print $1 }')" >> Packages
+  openssl sha256 "$deb" | echo "SHA256: $(awk '{ print $1 }')" >> Packages
   wc -c "$deb" | echo "Size: $(awk '{ print $1 }')" >> Packages
   echo "Filename: $deb" >> Packages
   dpkg-deb -f "$deb" Package | echo "Depiction: https://chikuwajb.github.io/repository_description/#$(xargs -0)" >> Packages
